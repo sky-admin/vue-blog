@@ -1,5 +1,7 @@
 # vue-blog
 
+[![Build Status](https://travis-ci.org/sky-admin/vue-blog.svg?branch=master)](https://travis-ci.org/sky-admin/vue-blog)
+
 > A Vue.js project
 
 ## Build Setup
